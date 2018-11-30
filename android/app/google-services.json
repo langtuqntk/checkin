@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "527666207575",
+    "firebase_url": "https://checkin-1543251847017.firebaseio.com",
+    "project_id": "checkin-1543251847017",
+    "storage_bucket": "checkin-1543251847017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527666207575:android:b970a645509d6a3e",
+        "android_client_info": {
+          "package_name": "com.checkin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527666207575-fjlaq40ptficdmf0afod6ui5maql9b2o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHgTxTZNOjofAK1Tvsr_anB28VDIDP4gI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
